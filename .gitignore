@@ -1,0 +1,4 @@
+build/
+onnxruntime-linux-x64*/
+*.data
+*.tgz
